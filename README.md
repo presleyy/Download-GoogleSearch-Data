@@ -9,8 +9,8 @@ To download the search data from Google Search Console
 
 ## Libraries
 
-- 'npm install path'
-- 'npm install readline`
+- `npm install path`
+- `npm install readline`
 - `npm install googleapis@23.0.0 --save`
 - `npm install google-auth-library@0.12.0 --save`
 
